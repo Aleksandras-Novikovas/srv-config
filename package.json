@@ -1,0 +1,23 @@
+{
+    "name": "srv-config",
+    "version": "0.0.1",
+    "description": "Configuration functionality for server blueprint",
+    "license": "MIT",
+    "author": {
+        "name": "Aleksandras Novikovas",
+        "email": "Aleksandras.Novikovas@gmail.com"
+    },
+    "contributors": [],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Aleksandras-Novikovas/srv-config.git"
+    },
+    "dependencies": {
+        "properties": "^1.2.1",
+        "srv-core": "git://github.com/Aleksandras-Novikovas/srv-core.git",
+        "srv-util": "git://github.com/Aleksandras-Novikovas/srv-util.git"
+    },
+    "devDependencies": {
+        "jsdoc": "^3.4.3"
+    }
+}
