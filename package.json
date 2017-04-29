@@ -14,8 +14,8 @@
     },
     "dependencies": {
         "properties": "^1.2.1",
-        "srv-core": "git://github.com/Aleksandras-Novikovas/srv-core.git",
-        "srv-util": "git://github.com/Aleksandras-Novikovas/srv-util.git"
+        "srv-core": "^0.0.1",
+        "srv-util": "^0.0.1"
     },
     "devDependencies": {
         "jsdoc": "^3.4.3"
