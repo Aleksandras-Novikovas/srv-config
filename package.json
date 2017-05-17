@@ -1,6 +1,6 @@
 {
     "name": "srv-config",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "description": "Configuration functionality for server blueprint",
     "license": "MIT",
     "author": {
@@ -14,8 +14,8 @@
     },
     "dependencies": {
         "properties": "^1.2.1",
-        "srv-core": "^0.0.1",
-        "srv-util": "^0.0.1"
+        "srv-core": "^1.0.0",
+        "srv-util": "^1.0.0"
     },
     "devDependencies": {
         "jsdoc": "^3.4.3"
